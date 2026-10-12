@@ -1,6 +1,6 @@
 # Labirint
 
-2D labirintna igra razvita v Unity (C#) pri predmetu Programiranje.
+2D labirintna igra razvita v Unity (C#).
 
 Igralec se premika skozi labirint (5 ročno zasnovanih levelov), pobira zaklad, se izogiba nevarnim stenam in ob koncu vsakega levela obišče trgovino, kjer kupi nadgradnje.
 
